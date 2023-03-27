@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  I'm <strong>Oleg</strong> and if you see it probably at a half of your way to offer me some kind of job
+  I'm <strong>Oleg</strong> and if you see it you are probably at a half of your way to offer me some kind of job
 </p>
 <div>
   <strong>About me:</strong><br>
