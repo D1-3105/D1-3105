@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  I'm <strong>Oleg</strong> and if you see it you are probably at a half of your way to offer me some kind of job
+  I'm <strong>Oleg</strong>, and if you see this, you're halfway to offering me some kind of job
 </p>
 <div>
   <strong>About me:</strong><br>
@@ -43,6 +43,16 @@ Here are some ideas to get you started:
     <li>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </li>
+    <li>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+    </li>
+    
     
   </ul>
   And lots others.
@@ -51,5 +61,5 @@ Here are some ideas to get you started:
 <div>
   Text me on telegram: <br>
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" style="width:10px;height:10px;"/> <a href="https://t.me/lucshe_tebia">@lucshe_tebia</a> <br>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.linkedin.com/in/oleg-konin-6539b2293">Oleg Konin</a>
+  <a href="https://www.linkedin.com/in/oleg-konin-6539b2293">Oleg Konin</a>
 </div>
