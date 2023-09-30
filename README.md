@@ -51,4 +51,5 @@ Here are some ideas to get you started:
 <div>
   Text me on telegram: <br>
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" style="width:10px;height:10px;"/> <a href="https://t.me/lucshe_tebia">@lucshe_tebia</a>
+  <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" style="width:10px;height:10px;"/> <a href="https://www.linkedin.com/in/oleg-konin-6539b2293">Oleg Konin</a>
 </div>
