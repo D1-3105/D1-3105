@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <div>
   Text me on telegram: <br>
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" style="width:10px;height:10px;"/> <a href="https://t.me/lucshe_tebia">@lucshe_tebia</a>
-  ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/oleg-konin-6539b2293))
+  <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white"/> <a href="https://www.linkedin.com/in/oleg-konin-6539b2293">Oleg Konin</a>
 </div>
