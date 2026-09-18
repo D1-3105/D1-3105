@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <strong>📫Text me:<strong><br>
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" style="width:10px;height:10px;"/> <a href="https://t.me/lucshe_tebia">@lucshe_tebia</a> <br>
-  <a href="https://www.linkedin.com/in/oleg-konin-6539b2293">Oleg Konin</a>
+  <a href="https://www.linkedin.com/in/lucshe-tebia/">Oleg Konin</a>
 </div>
